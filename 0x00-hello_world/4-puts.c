@@ -1,12 +1,11 @@
 #include <stdio.h>
-
-/*
- *  The main function ( main() ) is the entry point to a C/C++ program and is called when the application starts execut.
- * this is code for print with puts
- * and return value o
+/**
+ * main - A program that prints a line with puts function
+ * Return: 0 (Success)
  */
+
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0); 
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
