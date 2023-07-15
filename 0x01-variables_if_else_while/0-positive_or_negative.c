@@ -7,7 +7,7 @@
  *
  * negative or positive
  *
- * return 0( Success )
+ * Return: 0 ( Success )
  */
 int main(void)
 {
