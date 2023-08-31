@@ -19,7 +19,7 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m)
 	{
 		current = exclu >> k;
 		if (current & 1)
-			counter ++;
+			counter++;
 	}
 
 	return (counter);
